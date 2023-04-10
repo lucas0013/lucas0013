@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently spending my efforts in **an Internship in TCE-RJ(Web Development) and at mini personal projects for learning purposes**
 
-- 🌱 I’m currently learning **Java, C++, SQL and Python**
+- 🌱 I’m currently learning **C#, ASP.NET Core, React, Web APIs**
 
 - 📫 How to reach me **lucassantos0013@gmail.com**
 
