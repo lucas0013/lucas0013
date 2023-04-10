@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas dos Santos</h1>
 <h3 align="center">Computer engineering student from Brazil</h3>
 
-- 🔭 I’m currently spending my efforts in **an Internship in BNDES(Systems Analysis) and at mini personal projects for learning purposes**
+- 🔭 I’m currently spending my efforts in **an Internship in TCE-RJ(Web Development) and at mini personal projects for learning purposes**
 
 - 🌱 I’m currently learning **Java, C++, SQL and Python**
 
