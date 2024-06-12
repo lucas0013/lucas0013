@@ -20,7 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas0013&show_icons=true&theme=dracula&locale=en" alt="lucas0013" /></p>
 
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/lucas0013/lucas0013/main/background.png');]{x0000}$}
-
