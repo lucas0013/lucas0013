@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas dos Santos</h1>
 <h3 align="center">Computer engineering student from Brazil</h3>
 
-- 🔭 I’m currently spending my efforts in **an Internship in TCE-RJ(Web Development) and at mini personal projects for learning purposes**
+- 🔭 I currently work at a software development company**
 
-- 🌱 I’m currently learning **C#, ASP.NET Core, React, Web APIs**
+- 🌱 I’m currently learning **C#, ASP.NET Core, React, Angular**
 
 - 📫 How to reach me **lucassantos0013@gmail.com**
 
